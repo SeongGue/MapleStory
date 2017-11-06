@@ -1,0 +1,5 @@
+animType=2
+animCnt=3
+animCnt=4
+width=174
+height=77
